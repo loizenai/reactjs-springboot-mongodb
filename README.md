@@ -1,4 +1,4 @@
-# SpringBoot + React + MongoDB – SpringBoot React.js CRUD Example
+# React + SpringBoot + MongoDB – SpringBoot React.js CRUD Example
 
 Tutorial Link: [SpringBoot + React + MongoDB tutorial](https://loizenai.com/springboot-reactjs-mongodb-crud/)
 
